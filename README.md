@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Mae+-+DeftOS;Linux+%C2%B7+Open+Source+Builder;Napoleon%E2%80%99s+quotes%3A+%22My+enemy+is+many%2C+my+equal+is+none.%22" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Mae+-+DeftOS;Linux+%C2%B7+Open+Source+Builder;Always+be+yourself." alt="Typing intro" />
 
 <br/>
 
