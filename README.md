@@ -15,12 +15,10 @@
   <a href="https://github.com/NyArySadNight" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
   </a>
-</p>
-
-### GitHub Stats
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/NyArySadNight/NyArySadNight/main/metrics.svg" alt="GitHub metrics" />
+  <a href="https://www.reddit.com/user/mae_tech" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Reddit-u%2Fmae__tech-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+  </a>
+  <img src="https://img.shields.io/badge/Discord-mae__tech-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: mae_tech" />
 </p>
 
 ---
