@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://github.com/NyArySadNight"><img src="https://img.shields.io/badge/Quảng_Ninh-Vietnam-0d1117?style=for-the-badge&logo=googlemaps&logoColor=white" /></a>
+<a href="https://github.com/NyArySadNight"><img src="https://img.shields.io/badge/Quang_Ninh-Vietnam-0d1117?style=for-the-badge&logo=googlemaps&logoColor=white" /></a>
 <a href="https://archlinux.org"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" /></a>
 <a href="https://cachyos.org"><img src="https://img.shields.io/badge/CachyOS-0F7FC0?style=for-the-badge&logo=linux&logoColor=white" /></a>
 <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
@@ -15,22 +15,22 @@
 
 ## About me
 
-Junior SysAdmin và người xây dựng hệ điều hành Linux. Mình làm mọi thứ từ đầu, tối ưu từng lớp đến tận phần cứng, và giữ tư duy tập trung để giải quyết tận gốc vấn đề.
+Junior SysAdmin and Linux operating system builder. I build things from scratch, optimize every layer down to the hardware, and keep a focused mindset to solve problems at their root.
 
-- **Đang build:** [DeftOS](#projects), một distro dựa trên CachyOS với installer Calamares tùy chỉnh.
-- **Hệ thống:** Arch Linux, CachyOS, Debian, Ubuntu. Hyprland và terminal-first workflow.
-- **Tối ưu phần cứng:** undervolting, Ryzen PBO, MUX switch, Btrfs subvolume.
-- **Mạng và hạ tầng:** TCP/IP, DNS, routing, firewall, CI/CD qua GitHub Actions.
-- **Modding:** Android ROM, custom kernel, debloat One UI và LineageOS.
+- **Currently building:** [DeftOS](#projects), a CachyOS-based distro with a custom Calamares installer.
+- **Systems:** Arch Linux, CachyOS, Debian, Ubuntu. Hyprland and a terminal-first workflow.
+- **Hardware tuning:** undervolting, Ryzen PBO, MUX switching, Btrfs subvolumes.
+- **Networking and infrastructure:** TCP/IP, DNS, routing, firewalls, CI/CD with GitHub Actions.
+- **Modding:** Android ROMs, custom kernels, debloating One UI and LineageOS.
 
 ## Projects
 
 | Project | What it is | Stack |
 |---|---|---|
-| **DeftOS** | Distro dựa trên CachyOS, installer Calamares, ISO build tự động trên GitHub Actions | Shell, Calamares, Arch |
-| **StealNateOS** | Distro Arch/CachyOS, bản đầy đủ (Hyprland + GNOME) và bản gaming (Hyprland) | archiso, Shell |
-| **Auto.py** | Đăng bài Fanpage qua Graph API, có auto-reply webhook và share nhóm | Python, PyQt6, Playwright |
-| **ubuntu-debloat-tui** | Chọn và gỡ bloatware Ubuntu qua giao diện whiptail | Shell, whiptail |
+| **DeftOS** | CachyOS-based distro with a Calamares installer and automated ISO builds on GitHub Actions | Shell, Calamares, Arch |
+| **StealNateOS** | Arch/CachyOS distro in two editions: full (Hyprland + GNOME) and gaming (Hyprland) | archiso, Shell |
+| **Auto.py** | Auto-posts to Facebook Pages via the Graph API, with webhook auto-reply and group sharing | Python, PyQt6, Playwright |
+| **ubuntu-debloat-tui** | Select and remove Ubuntu bloatware through a whiptail interface | Shell, whiptail |
 
 ## Tech stack
 
@@ -59,15 +59,15 @@ Junior SysAdmin và người xây dựng hệ điều hành Linux. Mình làm m�
 
 ## Interests
 
-- **Gaming:** Roblox (FastFlags, tối ưu hiệu năng), Counter-Strike 2.
-- **Chụp ảnh:** chụp bằng điện thoại ở chế độ Pro/RAW, tập trung ánh sáng, bố cục và tối ưu megapixel.
-- **Âm nhạc:** Phonk, Funk, Hardtekk, và thẩm mỹ anime/manga.
+- **Gaming:** Roblox (FastFlags and performance tuning), Counter-Strike 2.
+- **Photography:** mobile shooting in Pro/RAW mode, focusing on light, composition, and high-megapixel optimization.
+- **Music:** Phonk, Funk, Hardtekk, and anime/manga aesthetics.
 
 ## Mindset
 
-> Kỷ luật không phải là giới hạn. Mình coi nó như một hệ thống tự động: `systemctl enable discipline`.
+> Discipline is not a restriction. I treat it as an automated system: `systemctl enable discipline`.
 
-Mình thích giao tiếp rõ ràng, ngắn gọn, không rườm rà.
+I value clear, concise communication with no fluff.
 
 ---
 
@@ -76,3 +76,4 @@ Mình thích giao tiếp rõ ràng, ngắn gọn, không rườm rà.
 📫 [github.com/NyArySadNight](https://github.com/NyArySadNight)
 
 </div>
+
