@@ -43,26 +43,6 @@ Linux operating system builder. I build things from scratch, optimize every laye
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-## Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NyArySadNight/NyArySadNight/output/profile-3d-contrib/profile-night-rainbow.svg" />
-  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/NyArySadNight/NyArySadNight/output/profile-3d-contrib/profile-green.svg" />
-</picture>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=NyArySadNight&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyArySadNight&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-</div>
-
-## Interests
-
-- **Gaming:** Roblox (FastFlags and performance tuning), Counter-Strike 2.
-- **Photography:** mobile shooting in Pro/RAW mode, focusing on light, composition, and high-megapixel optimization.
-- **Music:** Phonk, Funk, Hardtekk, and anime/manga aesthetics.
-
 ## Mindset
 
 > Discipline is not a restriction. I treat it as an automated system: `systemctl enable discipline`.
