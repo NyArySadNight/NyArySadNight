@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Ary+%2F+Mae;Linux+%C2%B7+Open+Source+Builder;My+enemy+is+many%2C+my+equal+is+none." alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Mae+-+DeftOS;Linux+%C2%B7+Open+Source+Builder;My+enemy+is+many%2C+my+equal+is+none." alt="Typing intro" />
 
 <br/>
 
@@ -15,7 +15,7 @@
 
 ## About me
 
-Junior SysAdmin and Linux operating system builder. I build things from scratch, optimize every layer down to the hardware, and keep a focused mindset to solve problems at their root.
+Linux operating system builder. I build things from scratch, optimize every layer down to the hardware, and keep a focused mindset to solve problems at their root.
 
 - **Currently building:** [DeftOS](#projects), a CachyOS-based distro with a custom Calamares installer.
 - **Systems:** Arch Linux, CachyOS, Debian, Ubuntu. Hyprland and a terminal-first workflow.
@@ -76,4 +76,3 @@ I value clear, concise communication with no fluff.
 📫 [github.com/NyArySadNight](https://github.com/NyArySadNight)
 
 </div>
-
